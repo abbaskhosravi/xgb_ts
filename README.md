@@ -2,7 +2,7 @@
 
 ## Time Series Forecasing using Gradient Bossting Methods
 
-![plot](img\xgb.png)
+![plot](img/xgboost.png)
 
 This GitHub repo looks at how Xgboost can be used for time series forecasting.
 
@@ -14,7 +14,7 @@ The model performance and its predictions for both scenarios are comprehensively
 
 The dataset could be download from here [PJMW Hourly](https://www.kaggle.com/code/robikscube/tutorial-time-series-forecasting-with-xgboost/data?select=PJMW_hourly.csv)
 
-![plot](img\preds_Jan_2015.png)
+![plot](img/preds_Jan_2015.png)
 
 The code also provides some basic steps for data preprocessing as well as variable importance charts.
 
